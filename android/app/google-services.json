@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "838321902469",
+    "firebase_url": "https://flutter-update-4378b.firebaseio.com",
+    "project_id": "flutter-update-4378b",
+    "storage_bucket": "flutter-update-4378b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838321902469:android:beb68d22525ef826682aec",
+        "android_client_info": {
+          "package_name": "com.example.smartdespensaflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838321902469-arsucj3cbmlbi2e4kl43l66k3a7614dp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartdespensaflutter",
+            "certificate_hash": "71bd8eef57c154b5914039fbe8c2732baebf85d2"
+          }
+        },
+        {
+          "client_id": "838321902469-l33g1adm8ppnl52n6t6o5mdmhu1708pk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartdespensaflutter",
+            "certificate_hash": "a53731edf8a2fe8407de6a36bbe130b401a536a7"
+          }
+        },
+        {
+          "client_id": "838321902469-i5s8epsjl3820g472bbc7kqiermt3h48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNsGQAM-uxkWuAoQBXnzVGjj-C0R0Tbmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838321902469-i5s8epsjl3820g472bbc7kqiermt3h48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
