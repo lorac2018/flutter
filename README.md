@@ -1,6 +1,7 @@
 # smartdespensaflutter
 
-A new Flutter application.
+Uma aplicação que serve para monitorizar os produtos de uma despensa, através da autentificação por email ou serviços Google e com recurso a um serviço Firebase que guarda a informação dos produtos, bem como os utilizadores autentificados.
+Numa fase mais avançada, pretendia-se utilizar o scarcode dos produtos assim que são introduzidos na dispensa e registá-los, sem ser necessário o formulário manual.
 
 ## Getting Started
 
